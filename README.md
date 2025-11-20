@@ -4,5 +4,5 @@ __Tools used in this project:__
 - Java
 - Selenium
 - TestNG
-- Maven
-- Jenkins
+
+(Outdated code & practices)
